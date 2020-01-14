@@ -21,6 +21,7 @@ This protection covers all payments made to Developers Institute by, or on behal
   <p>The Quality Manager will ensure that all procedures are implemented relating to this policy.</p>
 </td>
 </tr>
+
   <tr>
     <td valign="top"><strong>Scope</strong></td>
       <td>
@@ -33,7 +34,7 @@ This protection covers all payments made to Developers Institute by, or on behal
         <p>Changes in the policy will be made to ensure a compliant student fee protection structure and procedures are in place at all times. The Institute will make arrangements to protect the interests of students in all events that lead to the withdrawal of a course for which those students are enrolled.</p>
     </td>
   </tr>
-        <tr>
+       <tr>
     <td valign="top"><strong>Definitions</strong></td>
       <td>
         <p><strong>Course Closure Event</strong> -  In the event that NZQA decides that Developers Institute is no longer delivering or capable of delivering the course for which students are enrolled. Should Developers Institute's refund policies fail, then the student fee protection mechanism(s) will be triggered. This includes students who have enrolled and paid but have not yet started the course.</p>
@@ -43,7 +44,178 @@ This protection covers all payments made to Developers Institute by, or on behal
 a student withdraws from a programme or course(s) before this date their
 Academic Record will show “Withdrawn” for the course(s).</p>
           <p><strong>Non-Starter</strong> - A student who does not attend or engage in learning within the first 15 working days (three weeks) of a course or programme. For courses/programmes longer than 8 weeks but shorter than 12 weeks this time period is 10 working days (two weeks).</p>
+        <p><strong>Single Data Return (SDR)</strong> - Provides the base data for compilation and analysis of tertiary education statistics on Student enrolments; enrolments and withdrawals for funding purposes; qualification and course completions, progressions, and retentions. This information is used for reporting and monitoring purposes, such as monitoring enrolments against an Investment Plan, or tracking completions and attrition for qualifications at specific Tertiary Education Organisations (TEOs).</p>
+        <p><strong>Student Fees</strong> - The total tuition course costs and other financial commitments directly associated with the course for which the student has enrolled, and which are payable by the student, together with any other commitments that are required to be paid by the student to Developers Institute.</p>
+        <p><strong>Refunds</strong> - Paid fees that become refundable to students in compliance with this policy.  Any refund of fees made under the requirements of this policy shall be paid wherever possible, to the person or organisation that made the original payment, or otherwise directly to the student, or to an alternative provider as directed by the student, or to the Ministry of Social Development in the case of student loans.</p>
+        <p><strong>Transfer</strong> - The process for a student studying the same programme but moving to a different course or course occurrence, for example a different semester delivery of the same course. A transfer is allowed within the first 15 working days (three weeks) of enrolment on a course or programme. For courses/programmes between 8 - 11 weeks this time period is 10 working days (two weeks). If a student changes their programme of study, this is treated as an Enrolment Cancellation and a separate enrolment for the new programme of study is required.</p>
+        <p><strong>Verification of Study (VOS)</strong> - Is a process that provides StudyLink with the necessary information from education providers to enable and assess a student's entitlement for Student Allowances and/or Student Loans.</p>
+        <p><strong>Withdrawal</strong> - A withdrawal is the formal removal of a student’s enrolment from a programme or course(s) after the last cancellation date and before the last withdrawal date. The student enrolment will be reported in the Single Data Return (SDR) and their Academic Record will show “Withdrawn” for the course(s).</p>
+          <p><strong>Withdrawing Student Survey</strong> - For students who cancel their enrolment or withdraw before completing their course(s) or programme of study. Where possible this should be completed during a learning conversation with the student’s tutor, the Programme Coordinator or Wellbeing Manager. The survey is part of the Cancellation/Withdrawal Form.</p>
     </td>
   </tr>
-      
+    <tr>
+      <td valign="top"><strong>Compliance Obligations</strong></td>
+      <td>
+        <ul>
+          <li><a href="http://www.legislation.govt.nz/act/public/1989/0080/latest/DLM3983119.html?search=sw_096be8ed81881813_253_25_se&p=1">The Education Act 1989</a></li>
+          <li><a href="https://www.nzqa.govt.nz/assets/About-us/Our-role/Rules/SFP-Rules.pdf">Student Fee Protection Rules 2013</a></li>
+          <li>Credit Contracts and Consumer Finance Act 2003</li>
+          <li><a href="https://www.tec.govt.nz/funding/funding-and-performance/funding/fund-finder/student-achievement-component-provision-at-level-3-and-above-on-the-nzqf-fund/conditions-2019/">TEC Funding Conditions</a></li>
+        </ul>
+      </td>
+  </tr>
+  <tr>
+  <td valign="top"><strong>Review</strong></td>
+  <td>
+    <p>Responsibility: Chief Executive<br>
+Development/Approval dates: October 2019<br>
+      Review dates: June 2020</p>
+  </td>
+  </tr>
+<tr>
+  <td valign="top"><strong>Related Documents</strong></td>
+  <td>
+    <ul>
+      <li>Academic Record Management Policy</li>
+      <li><a href="dud">Student Enrolments and Procedures Policy</a></li>
+    </ul>
+  </td>
+  </tr>
   </tbody>
+  </table>
+  
+  <table style="width: 100%;">
+  <tbody>
+    <tr>
+      <td valign="top"><strong>Signed</strong></td>
+      <td>
+      G Norris
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>Date</strong></td>
+      <td>October 2019</td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>Position</strong></td>
+      <td>Chief Executive</td>
+    </tr>
+  </tbody>
+  </table>
+  <br>
+  <br>
+  <br>
+  
+ ## Procedures & Guidelines. 
+<table style="width: 100%;">
+  <tbody> 
+    <tr>
+      <td valign="top"><strong>1.0 General</strong></td>
+      <td><ul>
+        <li>1.1 The fee setting process shall be carried out in accordance with this Policy. The provisions of the Credit Contracts and Consumer Finance Act 2003 apply to this Policy where student fees are payable under an extended payment plan.  Such agreements shall be administered in compliance with the Act.
+          <p>The purposes of this policy are to:</p></li>
+        <li>1.2 Establish rules and guidelines to be adopted when setting student fees that shall comply with statutory requirements where applicable.</li>
+        <li>1.3 Establish the conditions and requirements for student refunds on withdrawal from programmes, including Ministry of Education funded programmes.</li>
+        </ul></td>
+    </tr>
+    <tr>
+     <td valign="top"><strong>2.0 Setting Student Fees Guidelines</strong></td>
+       <td><ul>
+        <li>2.1 Developers Institute shall consider the quality of Educational services provided for students in a fee-paying, client-driven environment.</li>
+         <li>2.2 The setting of fees shall take into account the educational, social, cultural and economic climate of the community set against the requirement of Developers Institute to meet external quality management requirements in a market-driven educational environment.</li>
+         <li>2.3 In order to meet strategic priorities and TEC and NZQA deadlines, the Senior Leadership Team shall establish the strategic priorities and objectives in March/April of the preceding Year.</li>
+         <li>2.4 When setting its fees, Developers Institute must take into account:
+           <ul>
+             <li>2.4.1 The need to maintain Developers Institute as a sustainable, viable financial entity, capable of meeting all planned commitments and developments;</li>
+             <li>2.4.2 Student and stakeholder requirements;</li>
+             <li>2.4.3 The competitive environment;</li>
+             <li>2.4.4 The need to provide a quality service that is value for money for the students;</li>
+             <li>2.4.5 The special needs of sectors of the community;</li>
+             <li>2.4.6 The external requirements set by Governments and its agencies;</li>
+             <li>2.4.7 Any reductions in income generated from the Ministry of Education changes in policy and other sources.</li>
+             <li>2.4.8 The cost of staffing when competing for highly skilled, professional talent within industry.</li>
+           </ul>
+         <li>2.5 When determining whether to increase domestic fees, the following shall be considered:
+           <ul>
+             <li>2.5.1. The maximum percentage increase allowable by Tertiary Education Commission.</li>
+             <li>2.5.2 The overall costs of discounted fees that limit future increases;</li>
+             <li>2.5.3 Whether an increase in fees is likely to reduce student numbers.</li>
+           </ul>
+         <li>2.6 All fees will be quoted in New Zealand Dollars and include GST.</li>
+         <li>2.7 A workload greater than the regular full‐time student workload will only be agreed to in exceptional circumstances, on the recommendation of the Academic Director.</li>
+         <li>2.8 The Academic Director shall be required to ensure that the views of students and industry are taken into account when fees are being set.</li>
+         <li>2.9 Any material impact on fees shall be communicated to students and other stakeholders at the time EFTS bids are made to the principal funding sources.</li>
+        </ul></td>
+    </tr>
+    <tr>
+     <td valign="top"><strong>3.0 Fees-free Policy Guidelines</strong></td>
+       <td><ul>
+        <li>3.1 From 1 January 2018, tertiary education will be fees-free for eligible first-time tertiary students. Broadly, if a student is a:
+         <ul>
+           <li>New Zealander who was in school in 2017, 2018, or 2019 they may qualify for a year of fees-free provider based tertiary education, or two years of industry training.</li>
+         </ul></li>
+         <li>3.2 If a prospective student is not a recent school leaver, and they have done less than half a year of education or training (including tertiary study in any other country), they may also qualify.
+          <p>Students can find out whether they are eligible on the fees-free website, www.feesfree.govt.nz or discuss their options during their selection interview.</p></li>
+        </ul></td>
+    </tr>
+    <tr>
+     <td valign="top"><strong>4.0 Domestic Fee Refunds Guidelines</strong></td>
+       <td><ul>
+        <li>4.1 When a course or programme is cancelled by Developers Institute after paid enrolments have been received, students shall be entitled to an automatic refund of all fees, course costs and health levies, without incurring an administration fee.</li>
+         <li>4.2 With effect from 2 June 2018, domestic students withdrawing from courses of less than three months duration are entitled to a refund, under section 235(1A) of the Education Act 1989.</li>
+         <li>4.3 Domestic students are entitled to a refund if they withdraw from a programme or training scheme as per section 235 of the Education Act 1989, and if:
+           <ul>
+             <li>the course is of three months duration or more, and;</li>
+             <li>the withdrawal occurs before the end of the eighth (8) working day after the start of a course.</li>
+           </ul></li>
+         <li>4.4 Developers Institute will refund an amount equal to the sum of the amount paid.</li>
+         <li>4.5 Formal withdrawal within the first eight (8) working days of the programme is confirmed by the completion and return of the Cancellation/Withdrawal Form to the Programme Coordinator. The Academic Director shall have been communicated with (by the Programme Coordinator) and signed off the form for the withdrawal to proceed. The date of withdrawal is deemed to be the date the student returns the signed Cancellation/Withdrawal form.</li>
+         <li>4.6 Students who have never attended class based on an audit of attendance, shall automatically be treated as an Enrolment Cancellation/Withdrawal with a full refund.</li>
+         <li>4.7 Where a student has had his/her fees paid by an agency or benefactor, any refund shall be made to that agency or benefactor.</li>
+         <li>4.8 Transfer from one course or programme to another within Developers Institute can be carried out provided that there are no negative financial consequences for Developers Institute, and notification of the written request to transfer is received within the first two weeks of the programme start date.  Where there are financial consequences, the transfer is to be treated as a course or programme withdrawal and a new study application is to be made. </li>
+         <li>4.9 All refunds shall comply with the Schedule of Refund Fees (see Appendix 4) unless exceptional circumstances have been approved by the Chief Executive.</li>
+        </ul></td>
+    </tr>
+    <tr>
+     <td valign="top"><strong>5.0 Student Fee Protection</strong></td>
+       <td><ul>
+        <li><p>5.1 All student fees paid by students are deposited the following working day in a Standard Trust Fee Protection account managed by the Public Trust (www.publictrust.co.nz). The Public Trust operates as an independent trustee on behalf of Developers Institute. See also 6.1 below.</p>
+         <p>As per the requirements of the Education Act, section 236A, Developers Institute’s Standard Trust account uses the eighth-day trust account for courses of three months or more in length.</p>
+         <p>This arrangement has been accepted by the New Zealand Qualifications Authority as meeting the requirements of the Education Act 1989 and the Student Fee Protection Rules 2013.</p></li>
+         <li>5.2 Students will receive a copy of their ‘Fee Protect Student Acknowledgement Form’, which includes a ‘Payment Schedule’ showing how their fees will be paid out to Developers Institute over the duration of the programme they are enrolled in. This 'Payment Schedule' that indicates the dates and amounts of payments to be made, must be signed by a representative of Developers Institute’s Senior Leadership Team, (CEO, Quality Manager or Academic Director) and the student before the start of the course.</li>
+         <li><p>5.3 In the unlikely event that Developers Institute ceases to operate for any reason (including insolvency, regulatory or voluntary closure), student fee protection is assured to all Developers Institute students, who are entitled to a refund of the fees equivalent to the remaining tuition that Developers Institute failed to provide.</p>
+           <p>Students can view further information, or access refunds of fees through contacting The Public Trust, by calling 0800 494 733 or visiting www.publictrust.co.nz/fee-protect.</p>
+           <p>Note: Notices will be posted on the NZQA website (www.nzqa.govt.nz) regarding any meetings for students affected in the unlikely event of Developers Institute's closure.</p></li>
+        </ul></td>
+    </tr>
+    <tr>
+     <td valign="top"><strong>6.0 Public Trust Account Management</strong></td>
+       <td><ul>
+        <li>6.1 Payments to the Public Trust: All Students must receive written notice stating that Student Fees are to be paid directly into the Public Trust Standard Trust Account. Where, despite that notice, the Institute is paid Student Fees, the Institute must deposit the full amount of those fees into the Trust Account by the close of the following business day from receipt of the fees. </li>
+         <li>6.2 Student Details: The Institute must maintain in English appropriate records of all Student Fees paid or payable to Developers Institute and must notify Public Trust in an electronic format of:
+          <ol type="i">
+            <li>the full name of each Student;</li>
+            <li>the passport number and place of permanent residence for each Student who is an International Student; (if relevant)</li>
+            <li>the date of birth of each Student;</li>
+            <li>the Student Fees for each Student split into the categories of Tuition Fees, Accommodation Expenses, Living Expenses, Travel and Health Insurance, and Other Financial Commitments;</li>
+            <li>the name and Course Commencement Date of the Course for each Student;</li>
+            <li>the expected completion date of the Course for each Student;</li>
+            <li>the details of each individual Student account with the Institute and any other information and details which will enable the calculation of any refund or payment under the Public Trust Deed;</li>
+            <li>details for each Student of any third party, advised by that Student, entitled to receive any refund on account of Student Fees;</li>
+            <li>details of any Loan Provider and the Student Loan amount; and</li>
+            <li>the completed Student Acknowledgement Form.</li></ol>
+         </li>
+          <li>6.3 Timing of Information to be supplied to the Public Trust: The Institute must supply Public Trust with information required by clause 6.2 at or before the time payment is made to the Trust Account or otherwise without delay (and in no case later than five business days after the date the information was available to the Institute).</li>
+         <li>6.4 Developers Institute must comply with all clauses outlined in the signed Public Trust Deed between Developers Institute and the Public Trust for a Standard Trust Account.</li>
+         <li>6.5 Student Account Set-up and Management Process:
+           <ol type="i">
+             <li>Set-up the student account on Developers Institute Student Management System - Wisenet</li>
+             <li>Direct the student to pay their fees into the Public Trust in accordance with guideline 6.1 above.</li>
+             <li>Authorise the account: Download the (most recent) ‘Student Fee Protect Acknowledgement Form’ from the account, sign the form with the student (and parent/guardian if under 18), and return the form to Public Trust in accordance with guideline 5.2 above.</li>
+             <li>Send the Student details outlined in guideline 6.2 above to the Public Trust.</li>
+             <li>Confirm the attendance of the student immediately following the end of the refund period.</li>
+           </ol></li>
+        </ul></td>
+    </tr>
+  </tbody>
+  </table>
