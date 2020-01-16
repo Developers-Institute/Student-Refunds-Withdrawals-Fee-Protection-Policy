@@ -666,4 +666,6 @@ Development/Approval dates: October 2019<br>
 </tbody>
 </table>
   
+## Appendix 2: Cancellation & Withdrawal Timeframes
 
+### Cancellation / Withdrawal Timeframes 8 - 11 Weeks
