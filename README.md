@@ -242,15 +242,15 @@ Development/Approval dates: October 2019<br>
     </tr>
     <tr>
       <td>7.1.2</td>
-      <td>Where direct contact is made with the Administration Coordinator, check the student has sought guidance from Tutor/Programme Coordinator or Wellbeing Manager before progressing Enrolment Cancellation process. If not, support and guidance should be arranged with the student’s agreement.
-        <p>Inform student there could be financial and/or academic implications if they cancel their enrolment.  Inform student to contact StudyLink for advice.</p>
+      <td><p>Where direct contact is made with the Administration Coordinator, check the student has sought guidance from Tutor/Programme Coordinator or Wellbeing Manager before progressing Enrolment Cancellation process. If not, support and guidance should be arranged with the student’s agreement.</p>
+        <p>Inform student there could be financial and/or academic implications if they cancel their enrolment. Inform student to contact StudyLink for advice.</p>
         <p>Document that a learning conversation took place.</p></td>
       <td>Administration Coordinator/Tutor/Programme Coordinator or Wellbeing Manager</td>
       <td>Refer to Appendix 3: FAQs For Students Considering Withdrawal</td>
     </tr>
     <tr>
       <td>7.1.3</td>
-      <td>Provide support and guidance to the student.
+      <td><p>Provide support and guidance to the student.</p>
         <p>If the student confirms they will cancel their enrolment, help them to complete the Withdrawing Student Survey.</p>
         <p>Advise the Quality Manager and Academic Director of the student’s decision to cancel their enrolment.</p></td>
       <td>Tutor/Programme Coordinator or Wellbeing Manager</td>
@@ -258,7 +258,7 @@ Development/Approval dates: October 2019<br>
     </tr>
     <tr>
       <td>7.1.4</td>
-      <td>Generate a Cancellation/Withdrawal Form and issue it to the student (either in person, sent by mail or emailed) and advise that they need to read Developers Institute: Student Refunds, Withdrawals and Fee Protection Policy.
+      <td><p>Generate a Cancellation/Withdrawal Form and issue it to the student (either in person, sent by mail or emailed) and advise that they need to read Developers Institute: Student Refunds, Withdrawals and Fee Protection Policy.</p>
         <p>If the student has not completed a Withdrawing Student Survey this should also be sent to them.</p>
         <p>Add a note to the student’s study contract in the Student Management System, stating when the Cancellation/Withdrawal Form was issued.</p></td>
       <td>Administration Coordinator</td>
@@ -284,7 +284,7 @@ Development/Approval dates: October 2019<br>
     </tr>
     <tr>
       <td>7.1.7</td>
-      <td>Send the Cancellation/Withdrawal Form to the Academic Director for them to sign.
+      <td><p>Send the Cancellation/Withdrawal Form to the Academic Director for them to sign.</p>
         <p>Forward the Withdrawing Student Survey to the Programme Committee and Quality Manager.</p></td>
       <td>Programme Coordinator</td>
       <td></td>
@@ -298,7 +298,7 @@ Development/Approval dates: October 2019<br>
     </tr>
     <tr>
       <td>7.1.9</td>
-      <td>Complete the ‘Information and Enrolments’ section of the Cancellation/Withdrawal Form.
+      <td><p>Complete the ‘Information and Enrolments’ section of the Cancellation/Withdrawal Form.</p>
         <p>Amend the enrolment status in the Student Management System, including a VoS update (if required).</p></td>
       <td>Administration Coordinator</td>
       <td>
@@ -336,7 +336,265 @@ Development/Approval dates: October 2019<br>
       <th>Responsibility</th>
       <th>Timing/Notes</th>
     </tr>
-    
+    <tr>
+      <td>7.2.1</td>
+      <td><p>Identify student as a non-starter through non-attendance or lack of engagement.</p>
+        <p>Arrange a learning conversation between the student and their tutor/Programme Coordinator or Wellbeing Manager to review learning contract and Individual Learning Plan.</p>
+        <p>If the student chooses to cancel their enrolment, follow Enrolment Cancellation Procedure 7.1 above.</p>
+        <p>Document that a learning conversation took place.</p></td>
+      <td>Tutor/Programme Coordinator or Wellbeing Manager or, Academic Director</td>
+      <td>On or before the Enrolment Cancellation date (8th working day from commencement).</td>
+    </tr>
+    <tr>
+      <td>7.2.2</td>
+      <td><p>Phone, text or email the student in the first week of the course(s) or programme.</p>
+        <p>If no response within the first week, send (post/email) ‘Letter 1’ advising the student their enrolment may be cancelled.</p> 
+        <p>Add a note to the student’s study contract in the Student Management System that contact has been attempted/made</p></td>
+      <td>Administration Coordinator/Tutor/Programme Coordinator or Wellbeing Manager</td>
+      <td>Use all available contact details, including emergency contact
+        <p>Refer Developers Institute-instigated Non Attendance Letter 1</p></td>
+    </tr>
+    <tr>
+      <td>7.2.3</td>
+      <td>If no response, send (post/email) ‘Letter 2’ advising the student their enrolment may be cancelled.</td>
+      <td>Administration Coordinator</td>
+      <td><p>Use all available contact details.</p>
+        <p>Five working days after Letter 1 has been sent</p> 
+        <p>Refer Developers Institute Non Attendance Letter</p></td>
+    </tr>
+    <tr>
+      <td>7.2.4</td>
+      <td><p>If no response, Generate a Cancellation/Withdrawal Form and attach the evidence of contact attempts.</p>
+        <p>Add a note to the student’s study contract in the Student Management System, stating this is a Developers Institute-instigated enrolment cancellation.</p>
+        <p>Complete the ‘Student Section’ of the Form.</p></td>
+      <td>Administration Coordinator</td>
+      <td>Same day</td>
+    </tr>
+    <tr>
+      <td>7.2.5</td>
+      <td><p>Check the Cancellation/Withdrawal Form and sign it.</p>
+        <p>Forward the Cancellation/Withdrawal Form to the Administration Coordinator.</p></td>
+      <td>Academic Director</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.2.6</td>
+      <td><p>Complete the ‘Information and Enrolments’ section of the Form.</p>
+      <p>Amend the enrolment status in the Student Management System including a VoS update (if required).</p></td>
+      <td>Administration Coordinator</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.2.7</td>
+      <td>Forward the Cancellation/Withdrawal Form to the Quality Manager</td>
+      <td>Administration Coordinator</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.2.8</td>
+      <td>Update the financial section of the Student Management System and return the Cancellation/Withdrawal Form to the Administration Coordinator.</td>
+      <td>Quality Manager</td>
+      <td></td>
+    </tr>
+    <td>7.2.9</td>
+      <td>Send the Cancellation/Withdrawal confirmation Letter to the student confirming their Enrolment Cancellation.</td>
+      <td>Administration Coordinator</td>
+      <td>Refer Cancellation/ Withdrawal Letter</td>
+    </tr>
   </tbody>
   </table>
+  
+## 7.3 Student Initiated Withdrawal Procedure
+
+<table style="width 100%;">
+  <tbody>
+    <tr>
+      <th></th>
+      <th>Steps</th>
+      <th>Responsibility</th>
+      <th>Timing/Notes</th>
+    </tr>
+    <tr>
+      <td>7.3.1</td>
+      <td>Contact tutor / Programme Coordinator or Wellbeing Manager to: 
+        <ul>
+          <li>review your learning contract and discuss your future options, or</li>
+          <li>request a cancellation of your enrolment on a course(s) or programme.</li>
+        </ul></td>
+      <td>Student</td>
+      <td>Withdrawal is possible up to 60% of the duration of the course or programme (Last Withdrawal Date)</td>
+    </tr>
+    <tr>
+      <td>7.3.2</td>
+      <td><p>Where direct contact is made with the Administration Coordinator, check the student has sought guidance from tutor / Programme Coordinator or Wellbeing Manager before progressing Enrolment Cancellation process.</p>
+        <p>If not, support and guidance should be arranged with the student’s agreement.</p>
+        <p>Inform student there could be financial and/or academic implications if they cancel their enrolment.</p>
+        <p>Inform student to contact StudyLink for advice.</p>
+        <p>Document that a learning conversation took place.</p></td>
+      <td>Administration Coordinator/ tutor / Programme Coordinator or Wellbeing Manager</td>
+      <td>Refer to Appendix 3: FAQs For Students Considering Withdrawal</td>
+    </tr>
+    <tr>
+      <td>7.3.3</td>
+      <td><p>Provide support and guidance to the student.</p>
+        <p>Inform the student there could be financial and/or academic penalties as a result of withdrawal.</p>
+        <p>If the student confirms they will withdraw, support them to complete the Withdrawing Student Survey.</p>
+        <p>Advise the Administration Coordinator, Programme Coordinator and Tutors of the student’s decision to withdraw.</p></td>
+      <td>Tutor / Programme Coordinator and Wellbeing Manager</td>
+      <td>Refer Student Surveys Procedure</td>
+    </tr>
+    <tr>
+      <td>7.3.4</td>
+      <td><p>Generate a Cancellation/Withdrawal Form and issue it to the student (either in person, sent by mail or email) and advise that they need to read Developers Institute: Student Refunds, Withdrawals and Fee Protection Policy.</p>
+        <p>If the student has not completed a Withdrawing Student Survey this should also be sent to them.</p>
+        <p>Add a note to the student’s study contract in the Student Management System, stating when the Cancellation/Withdrawal Form was issued.</p></td>
+      <td>Administration Coordinator</td>
+      <td><p>Withdrawal is possible up to 60 per cent of the duration of the course or programme (Last Withdrawal Date)</p>
+        <p>Refer Student Surveys Procedure</p></td>
+    </tr>
+    <tr>
+      <td>7.3.5</td>
+      <td>Complete and sign a Cancellation/Withdrawal Form and Withdrawing Student Survey and return them to the Programme Coordinator.</td>
+      <td>Student</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.3.6</td>
+      <td><p>Check the completed Cancellation/Withdrawal Form and complete the ‘Programme Area’ section. Check and attach a copy of the learner attendance.</p>
+        <p>Add a note to the student’s study contract in the Student Management System, stating when the Cancellation/Withdrawal Form was returned</p></td>
+      <td>Programme Coordinator</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.3.7</td>
+      <td><p>Send the Cancellation/Withdrawal Form to the Academic Director for them to sign.</p>
+        <p>Forward the Withdrawing Student Survey to the Programme Committee and Quality Manager.</p></td>
+      <td>Programme Coordinator</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.3.8</td>
+      <td><p>Check the completed Cancellation/Withdrawal Form and sign it.</p>
+        <p>Forward the completed Cancellation/Withdrawal Form to the Administration Coordinator.</p></td>
+      <td>Academic Director</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.3.9</td>
+      <td>Complete the ‘Information and Enrolments’ section of the Form. Update the enrolment status in the Student Management System.</td>
+      <td>Administration Coordinator</td>
+      <td><p>Academic Records retained and a result of “Withdrawn” is entered against each course.</p>
+        <p>Refer Academic Record Management Policy</p></td>
+    </tr>
+    <tr>
+      <td>7.3.10</td>
+      <td>If student has requested a refund (outside Developers Institute Policy), forward the Cancellation/Withdrawal Form to the Academic Director or CEO.</td>
+      <td>Administration Coordinator</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.3.11</td>
+      <td>Assign ‘approved’ or ‘not approved’ to proposed refunds that are outside Developers Institute policy, and return Cancellation/Withdrawal Form to Quality Manager.</td>
+      <td>Academic Director or CEO</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.3.12</td>
+      <td>Update the financial section of the Student Management System updated and return the Cancellation/Withdrawal Form to the Administration Coordinator</td>
+      <td>Quality Manager</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.3.13</td>
+      <td>Send the student a Withdrawal Confirmation Letter confirming their Withdrawal and outcome of any refund requests.</td>
+      <td>Administration Coordinator</td>
+      <td>Refer Withdrawal Confirmation Letter</td>
+    </tr>
+  </tbody>
+</table>
+
+## 7.4 Developers Institute Initiated Withdrawal Procedure
+
+<table style="width 100%;">
+ <tbody>
+   <tr>
+     <th></th>
+     <th>Steps</th>
+     <th>Responsibility</th>
+     <th>Timing/Notes</th>
+   </tr>
+   <tr>
+     <td>7.4.1</td>
+     <td><p>Identify student who is not attending or has disengaged with their course(s) or programme.</p>
+       <p>Arrange a learning conversation between the student and their tutor / programme coordinator or Wellbeing Manager to review learning contract and Individual Learning Plan.</p>
+       <p>If the student chooses to withdraw, follow Withdrawal Procedure 7.3 (above).</p>
+       <p>Document that a learning conversation took place.</p></td>
+     <td>Tutor/Student</td>
+     <td>Any time up to 60 per cent of the duration of the course or programme (Last Withdrawal Date)</td>
+   </tr>
+   <tr>
+     <td>7.4.2</td>
+     <td><p>If the student cannot be contacted, send ‘Letter 1’ requesting an appointment to offer support, and a response in five working days.</p>
+       <p>Add a note to the student’s study contract in the Student Management System that contact has been attempted / made.</p></td>
+     <td>Administration Coordinator/ Academic Director</td>
+     <td><p>Use all available contact details, including emergency contact</p>
+       <p>Refer Developers Institute Instigated Non Attendance Letter 1</p></td>
+   </tr>
+   <tr>
+     <td>7.4.3</td>
+     <td><p>If the student does not respond to ‘Letter 1’ send ‘Letter 2’ reminding them of the offer of support and a response in five working days.</p>
+       <p>Add a note to the student’s study contract in the Student Management System that contact has been attempted / made.</p></td>
+     <td>Administration Coordinator/ Academic Director</td>
+     <td><p>Use all available contact details</p>
+       <p>Five working days after Letter 1 has been sent</p>
+       <p>Refer Developers Institute Instigated Non Attendance Letter 2</p></td>
+   </tr>
+   <tr>
+     <td>7.4.4</td>
+     <td><p>If the student does not respond to Letter No.2, send Letter No.3 advising the student they will be withdrawn in five working days.</p>
+       <p>Add a note to the student’s study contract in the Student Management System that contact has been attempted / made.</p></td>
+     <td>Administration Coordinator/ Academic Director</td>
+     <td><p>Use all available contact details</p>
+       <p>Five working days after Letter 2 has been sent</p>
+       <p>Refer Developers Institute Instigated Non Attendance Letter 3</p></td>
+   </tr>
+   <tr>
+     <td>7.4.5</td>
+     <td><p>If no response after five working days: Generate a Cancellation/Withdrawal Form.</p>
+       <p>Add a note to the student’s study contract in the Student Management System, stating this is a Developers Institute-instigated withdrawal. Complete the ‘Student Section’ of the Cancellation/Withdrawal Form.</p>
+       <p>Forward to Academic Director.</p></td>
+     <td>Administration Coordinator</td>
+     <td></td>
+   </tr>
+   <tr>
+     <td>7.4.6</td>
+     <td><p>Check the Cancellation/Withdrawal Form and sign it.</p>
+       <p>Forward the Cancellation/Withdrawal Form to the Administration Coordinator</p></td>
+     <td>Academic Director</td>
+     <td></td>
+   </tr>
+   <tr>
+     <td>7.4.7</td>
+     <td><p>Complete the ‘Information and Enrolments’ section of the Cancellation/Withdrawal Form. </p>
+       <p>Update the student’s enrolment status in the Student Management System.</p></td>
+     <td>Administration Coordinator</td>
+     <td><p>Academic Records retained and a result of “Withdrawn” is entered against each course.</p>
+       <p>Refer Academic Records Management Policy</p></td>
+   </tr>
+   <tr>
+     <td>7.4.8</td>
+     <td>Assign ‘approved’ or ‘not approved’ to proposed refunds that are outside Developers Institute policy, and return Cancellation/Withdrawal Form to Administration Coordinator.</td>
+     <td>Academic Director / CEO</td>
+     <td></td>
+   </tr>
+   <tr>
+     <td>7.4.9</td>
+     <td>Send the student a Withdrawal Confirmation Letter confirming the Withdrawal and advise of any refunds.</td>
+     <td>Administration Coordinator</td>
+     <td><p>Use all available contact details</p>
+       <p>Refer Withdrawal Confirmation Letter</p></td>
+   </tr>
+ </tbody>
+</table>
+    
   
