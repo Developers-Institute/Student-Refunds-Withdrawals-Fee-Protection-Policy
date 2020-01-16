@@ -221,111 +221,109 @@ Development/Approval dates: October 2019<br>
   </table>
   
   ## 7.1 Student-Instigated Enrolment Cancellation Procedure
-<table style="width: 100%;">
-<tbody>
-  <tr>
-    <th></th>
-    <th>Steps</th>
-    <th>Responsibility</th>
-    <th>Timing/Notes</th>
-  </tr>
-  <tr>
-    <td>7.1.1</td>
-    <td>Contact Tutor/Programme Coordinator or Wellbeing Manager to:
-      <ul>
-        <li>review your learning contract and discuss your future options, or</li> 
-        <li>request a cancellation of your enrolment on a course(s) or programme.</li>
-      </ul></td>
-    <td>Student</td>
-    <td>Enrolment Cancellation is possible at any time before or on the Enrolment Cancellation date (8th working day from commencement)</td>
-  </tr>
-  <tr>
-    <td>7.1.2</td>
-    <td>
-      <p>Where direct contact is made with the Administration Coordinator, check the student has sought guidance from Tutor/Programme Coordinator or Wellbeing Manager before progressing Enrolment Cancellation process. If not, support and guidance should be arranged with the student’s agreement.</p>
-      <p>Inform student there could be financial and/or academic implications if they cancel their enrolment.  Inform student to contact StudyLink for advice.</p>
-      <p>Document that a learning conversation took place.</p></td>
-    <td>Administration Coordinator/Tutor/Programme Coordinator or Wellbeing Manager</td>
-    <td>Refer to Appendix 3: FAQs For Students Considering Withdrawal</td>
-  </tr>
-  <tr>
-    <td>7.1.3</td>
-    <td>
-      <p>Provide support and guidance to the student.</p>
-      <p>If the student confirms they will cancel their enrolment, help them to complete the Withdrawing Student Survey.</p>
-      <p>Advise the Quality Manager and Academic Director of the student’s decision to cancel their enrolment.</p></td
-    <td>Tutor/Programme Coordinator or Wellbeing Manager</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>7.1.4</td>
-    <td>
-      <p>Generate a Cancellation/Withdrawal Form and issue it to the student (either in person, sent by mail or emailed) and advise that they need to read Developers Institute: Student Refunds, Withdrawals and Fee Protection Policy.</p>
-      <p>If the student has not completed a Withdrawing Student Survey this should also be sent to them.</p>
-      <p>Add a note to the student’s study contract in the Student Management System, stating when the Cancellation/Withdrawal Form was issued.</p></td>
-    <td>Administration Coordinator</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>7.1.5</td>
-    <td>Complete and sign a Cancellation/Withdrawal Form and Withdrawing Student Survey and return them to the Programme Coordinator.</td>
-    <td>Student</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>7.1.6</td>
-    <td>Check the completed Cancellation/Withdrawal Form and complete the ‘Programme Area’ section. Add a note to the student’s study contract in the student management system, stating when the Cancellation/Withdrawal Form was returned.</td>
-    <td>Programme  Coordinator</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>7.1.6</td>
-    <td>Check the completed Cancellation/Withdrawal Form and complete the ‘Programme Area’ section. Add a note to the student’s study contract in the student management system, stating when the Cancellation/Withdrawal Form was returned.</td>
-    <td>Programme  Coordinator</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>7.1.7</td>
-    <td><p>Send the Cancellation/Withdrawal Form to the Academic Director for them to sign.</p>
-      <p>Forward the Withdrawing Student Survey to the Programme Committee and Quality Manager.</p></td>
-    <td>Programme Coordinator</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>7.1.8</td>
-    <td><p>Check the Cancellation/Withdrawal Form and sign it.</p>
-      <p>Forward the completed Cancellation/Withdrawal Form Administration Coordinator.</p></td>
-    <td>Academic Director</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>7.1.9</td>
-    <td><p>Complete the ‘Information and Enrolments’ section of the Cancellation/Withdrawal Form.</p>
-      <p>Amend the enrolment status in the Student Management System, including a VoS update (if required).</p></td>
-    <td>Administration Coordinator</td>
-    <td>
-      <p>Delete Academic Record in the Student Management System.</p>
-      <p>Refer Academic Record Management Policy</p></td>
-  </tr>
-  <tr>
-    <td>7.1.10</td>
-    <td>Forward the Cancellation/Withdrawal to the Quality Manager.</td>
-    <td>Administration Coordinator</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>7.1.11</td>
-    <td>Update the financial section of the Student Management System and return the Cancellation/Withdrawal Form to the Administration Coordinator</td>
-    <td>Quality Manager</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>7.1.12</td>
-    <td>Send the Cancellation/Withdrawal Confirmation Letter to the student confirming their Enrolment Cancellation.</td>
-    <td>Administration Coordinator</td>
-    <td>Refer Cancellation/ Withdrawal Confirmation Letter</td>
-  </tr>
-  </tbody>
-  </table>
+  
+  <table style="width: 100%;">
+  <tbody>
+    <tr>
+      <th></th>
+      <th>Steps</th>
+      <th>Responsibility</th>
+      <th>Timing/Notes</th>
+    </tr>
+    <tr>
+      <td>7.1.1</td>
+      <td>Contact Tutor/Programme Coordinator or Wellbeing Manager to:
+        <ul>
+          <li>review your learning contract and discuss your future options, or</li>
+          <li>request a cancellation of your enrolment on a course(s) or programme.</li>
+        </ul></td>
+      <td>Student</td>
+      <td>Enrolment Cancellation is possible at any time before or on the Enrolment Cancellation date (8th working day from commencement)</td>
+    </tr>
+    <tr>
+      <td>7.1.2</td>
+      <td>Where direct contact is made with the Administration Coordinator, check the student has sought guidance from Tutor/Programme Coordinator or Wellbeing Manager before progressing Enrolment Cancellation process. If not, support and guidance should be arranged with the student’s agreement.
+        <p>Inform student there could be financial and/or academic implications if they cancel their enrolment.  Inform student to contact StudyLink for advice.</p>
+        <p>Document that a learning conversation took place.</p></td>
+      <td>Administration Coordinator/Tutor/Programme Coordinator or Wellbeing Manager</td>
+      <td>Refer to Appendix 3: FAQs For Students Considering Withdrawal</td>
+    </tr>
+    <tr>
+      <td>7.1.3</td>
+      <td>Provide support and guidance to the student.
+        <p>If the student confirms they will cancel their enrolment, help them to complete the Withdrawing Student Survey.</p>
+        <p>Advise the Quality Manager and Academic Director of the student’s decision to cancel their enrolment.</p></td
+      <td>Tutor/Programme Coordinator or Wellbeing Manager</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.1.4</td>
+      <td>Generate a Cancellation/Withdrawal Form and issue it to the student (either in person, sent by mail or emailed) and advise that they need to read Developers Institute: Student Refunds, Withdrawals and Fee Protection Policy.
+        <p>If the student has not completed a Withdrawing Student Survey this should also be sent to them.</p>
+        <p>Add a note to the student’s study contract in the Student Management System, stating when the Cancellation/Withdrawal Form was issued.</p></td>
+      <td>Administration Coordinator</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.1.5</td>
+      <td>Complete and sign a Cancellation/Withdrawal Form and Withdrawing Student Survey and return them to the Programme Coordinator.</td>
+      <td>Student</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.1.6</td>
+      <td>Check the completed Cancellation/Withdrawal Form and complete the ‘Programme Area’ section. Add a note to the student’s study contract in the student management system, stating when the Cancellation/Withdrawal Form was returned.</td>
+      <td>Programme  Coordinator</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.1.6</td>
+      <td>Check the completed Cancellation/Withdrawal Form and complete the ‘Programme Area’ section. Add a note to the student’s study contract in the student management system, stating when the Cancellation/Withdrawal Form was returned.</td>
+      <td>Programme  Coordinator</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.1.7</td>
+      <td>Send the Cancellation/Withdrawal Form to the Academic Director for them to sign.
+        <p>Forward the Withdrawing Student Survey to the Programme Committee and Quality Manager.</p></td>
+      <td>Programme Coordinator</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.1.8</td>
+      <td>heck the Cancellation/Withdrawal Form and sign it.
+        <p>Forward the completed Cancellation/Withdrawal Form Administration Coordinator.</p></td>
+      <td>Academic Director</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.1.9</td>
+      <td>Complete the ‘Information and Enrolments’ section of the Cancellation/Withdrawal Form.
+        <p>Amend the enrolment status in the Student Management System, including a VoS update (if required).</p></td>
+      <td>Administration Coordinator</td>
+      <td>
+        <p>Delete Academic Record in the Student Management System.</p>
+        <p>Refer Academic Record Management Policy</p></td>
+    </tr>
+    <tr>
+      <td>7.1.10</td>
+      <td>Forward the Cancellation/Withdrawal to the Quality Manager.</td>
+      <td>Administration Coordinator</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.1.11</td>
+      <td>Update the financial section of the Student Management System and return the Cancellation/Withdrawal Form to the Administration Coordinator</td>
+      <td>Quality Manager</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7.1.12</td>
+      <td>Send the Cancellation/Withdrawal Confirmation Letter to the student confirming their Enrolment Cancellation.</td>
+      <td>Administration Coordinator</td>
+      <td>Refer Cancellation/ Withdrawal Confirmation Letter</td>
+    </tr>
+    </tbody>
+    </table>
   
   ## 7.2 Developers Institute Instigated Enrolment Cancellation Procedure
