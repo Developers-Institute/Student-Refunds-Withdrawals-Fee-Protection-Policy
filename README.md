@@ -252,7 +252,7 @@ Development/Approval dates: October 2019<br>
       <td>7.1.3</td>
       <td>Provide support and guidance to the student.
         <p>If the student confirms they will cancel their enrolment, help them to complete the Withdrawing Student Survey.</p>
-        <p>Advise the Quality Manager and Academic Director of the student’s decision to cancel their enrolment.</p></td
+        <p>Advise the Quality Manager and Academic Director of the student’s decision to cancel their enrolment.</p></td>
       <td>Tutor/Programme Coordinator or Wellbeing Manager</td>
       <td></td>
     </tr>
@@ -327,3 +327,16 @@ Development/Approval dates: October 2019<br>
     </table>
   
   ## 7.2 Developers Institute Instigated Enrolment Cancellation Procedure
+  
+  <table style="width: 100%;">
+  <tbody>
+    <tr>
+      <th></th>
+      <th>Steps</th>
+      <th>Responsibility</th>
+      <th>Timing/Notes</th>
+    </tr>
+    
+  </tbody>
+  </table>
+  
