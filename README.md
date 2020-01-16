@@ -596,5 +596,74 @@ Development/Approval dates: October 2019<br>
    </tr>
  </tbody>
 </table>
-    
+
+## Appendix 1: Domestic Students - Cancellation / Withdrawal Impacts Table
+
+<table style="width 100%;">
+  <tbody>
+    <tr>
+      <th>Enrolment Duration of Course</th>
+      <th>Timeframe</th>
+      <th>Academic Course Grade</th>
+      <th>Refund Eligibility</th>
+    </tr>
+    <tr>
+      <td valign="top"><strong>8-11 weeks</strong></td>
+      <td>After programme/course start date</td>
+      <td>Fail grade/No pass</td>
+      <td>No refund</td>
+     </tr>
+    <tr>
+      <td></td>
+      <td>Any time before programme/course start date, or up to and including, 10 working days (2 weeks) after programme/course start date</td>
+      <td>Not recorded</td>
+      <td>Full refund</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Less than 10 working days (2 weeks) before programme/course start date<br>
+        Or 
+        <p>Up to, and including, 10 working days (2 weeks) after programme/course start date</p></td>
+      <td>Not recorded</td>
+      <td>Full refund</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Between 10 working days (2 weeks) and 60% of programme/course completion</td>
+      <td>Withdrawn</td>
+      <td>No refund</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>After 60% of programme/course completion</td>
+      <td>Fail grade/No pass (cannot be withdrawn)</td>
+      <td>No refund</td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>12 weeks and longer</strong></td>
+      <td>10 working days (2 weeks) days before programme/course start date</td>
+      <td>Not recorded</td>
+      <td>Full refund</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Any time before programme/course start date, or up to and including, 10 working days (2 weeks) after programme/course start date</td>
+      <td>Not recorded</td>
+      <td>Full refund</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Between 10 working days (2 weeks) and 60% of programme/course completion</td>
+      <td>Withdrawn</td>
+      <td>No refund</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>After 60% of programme/course completion</td>
+      <td>Fail grade/No pass (cannot be withdrawn)</td>
+      <td>No refund</td>
+    </tr>
+</tbody>
+</table>
   
+
