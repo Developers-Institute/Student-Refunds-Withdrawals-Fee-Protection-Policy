@@ -77,7 +77,7 @@ Development/Approval dates: October 2019<br>
   <td>
     <ul>
       <li>Academic Record Management Policy</li>
-      <li><a href="dud">Student Enrolments and Procedures Policy</a></li>
+      <li><a href="#">Student Enrolments and Procedures Policy</a></li>
     </ul>
   </td>
   </tr>
@@ -406,7 +406,7 @@ Development/Approval dates: October 2019<br>
   
 ## 7.3 Student Initiated Withdrawal Procedure
 
-<table style="width 100%;">
+<table style="width: 100%;">
   <tbody>
     <tr>
       <th></th>
@@ -515,7 +515,7 @@ Development/Approval dates: October 2019<br>
 
 ## 7.4 Developers Institute Initiated Withdrawal Procedure
 
-<table style="width 100%;">
+<table style="width: 100%;">
  <tbody>
    <tr>
      <th></th>
@@ -599,7 +599,7 @@ Development/Approval dates: October 2019<br>
 
 ## Appendix 1: Domestic Students - Cancellation / Withdrawal Impacts Table
 
-<table style="width 100%;">
+<table style="width: 100%;">
   <tbody>
     <tr>
       <th>Enrolment Duration of Course</th>
