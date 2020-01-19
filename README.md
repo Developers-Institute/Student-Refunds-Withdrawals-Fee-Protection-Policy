@@ -106,7 +106,8 @@ Development/Approval dates: October 2019<br>
   <br>
   <br>
   
- ## Procedures & Guidelines. 
+## Procedures & Guidelines.
+
 <table style="width: 100%;">
   <tbody> 
     <tr>
@@ -220,7 +221,7 @@ Development/Approval dates: October 2019<br>
   </tbody>
   </table>
   
-  ## 7.1 Student-Instigated Enrolment Cancellation Procedure
+## 7.1 Student-Instigated Enrolment Cancellation Procedure
   
   <table style="width: 100%;">
   <tbody>
@@ -326,7 +327,7 @@ Development/Approval dates: October 2019<br>
     </tbody>
     </table>
   
-  ## 7.2 Developers Institute Instigated Enrolment Cancellation Procedure
+## 7.2 Developers Institute Instigated Enrolment Cancellation Procedure
   
   <table style="width: 100%;">
   <tbody>

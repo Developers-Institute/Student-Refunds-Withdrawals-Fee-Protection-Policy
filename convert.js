@@ -10,10 +10,11 @@ const convertOpts = {
   simpleLineBreaks: true,
   openLinksInNewWindow: true,
   emoji: true,
-  // completeHTMLDocument: true
+  completeHTMLDocument: true
 };
 
 const converter = new showdown.Converter(convertOpts);
+converter.setFlavor('github');
 
 const policyDoc = fs.readFileSync('README.md', 'UTF-8');
 const html = converter.makeHtml(policyDoc);
