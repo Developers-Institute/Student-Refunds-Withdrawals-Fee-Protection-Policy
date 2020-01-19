@@ -10,7 +10,7 @@ const convertOpts = {
   simpleLineBreaks: true,
   openLinksInNewWindow: true,
   emoji: true,
-  completeHTMLDocument: true
+  // completeHTMLDocument: true
 };
 
 const converter = new showdown.Converter(convertOpts);
