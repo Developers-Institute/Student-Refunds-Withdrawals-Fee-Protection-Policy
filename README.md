@@ -1,4 +1,5 @@
 # Student Refunds, Withdrawals and Fee Protection Policy (v.2.2)
+
 <table style="width: 100%;">
 <tbody>
 <tr>
@@ -156,7 +157,7 @@ Development/Approval dates: October 2019<br>
            <li>New Zealander who was in school in 2017, 2018, or 2019 they may qualify for a year of fees-free provider based tertiary education, or two years of industry training.</li>
          </ul></li>
          <li>3.2 If a prospective student is not a recent school leaver, and they have done less than half a year of education or training (including tertiary study in any other country), they may also qualify.
-          <p>Students can find out whether they are eligible on the fees-free website, <a href:"http://www.feesfree.govt.nz/">www.feesfree.govt.nz</a> or discuss their options during their selection interview.</p></li>
+          <p>Students can find out whether they are eligible on the fees-free website, <a href="http://www.feesfree.govt.nz/">www.feesfree.govt.nz</a> or discuss their options during their selection interview.</p></li>
         </ul></td>
     </tr>
     <tr>
@@ -219,7 +220,7 @@ Development/Approval dates: October 2019<br>
         </ul></td>
     </tr>
   </tbody>
-  </table>
+</table>
   
 ## 7.1 Student-Instigated Enrolment Cancellation Procedure
   
@@ -666,7 +667,8 @@ Development/Approval dates: October 2019<br>
     </tr>
 </tbody>
 </table>
-  
+
 ## Appendix 2: Cancellation & Withdrawal Timeframes
 
 ### Cancellation / Withdrawal Timeframes 8 - 11 Weeks
+
