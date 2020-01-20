@@ -84,7 +84,7 @@ Development/Approval dates: October 2019<br>
   </tr>
   </tbody>
   </table>
-  
+
   <table style="width: 100%;">
   <tbody>
     <tr>
@@ -104,7 +104,7 @@ Development/Approval dates: October 2019<br>
   </tbody>
   </table>
 
-##Procedures & Guidelines.
+## Procedures and Guidelines.
 
 <table style="width: 100%;">
   <tbody> 
@@ -219,7 +219,7 @@ Development/Approval dates: October 2019<br>
   </tbody>
 </table>
   
-##7.1 Student-Instigated Enrolment Cancellation Procedure
+## 7.1 Student-Instigated Enrolment Cancellation Procedure
   
   <table style="width: 100%;">
   <tbody>
@@ -325,7 +325,7 @@ Development/Approval dates: October 2019<br>
     </tbody>
     </table>
   
-##7.2 Developers Institute Instigated Enrolment Cancellation Procedure
+## 7.2 Developers Institute Instigated Enrolment Cancellation Procedure
   
   <table style="width: 100%;">
   <tbody>
@@ -403,7 +403,7 @@ Development/Approval dates: October 2019<br>
   </tbody>
   </table>
   
-##7.3 Student Initiated Withdrawal Procedure
+## 7.3 Student Initiated Withdrawal Procedure
 
 <table style="width: 100%;">
   <tbody>
@@ -512,7 +512,7 @@ Development/Approval dates: October 2019<br>
   </tbody>
 </table>
 
-##7.4 Developers Institute Initiated Withdrawal Procedure
+## 7.4 Developers Institute Initiated Withdrawal Procedure
 
 <table style="width: 100%;">
  <tbody>
@@ -596,7 +596,7 @@ Development/Approval dates: October 2019<br>
  </tbody>
 </table>
 
-##Appendix 1: Domestic Students - Cancellation / Withdrawal Impacts Table
+## Appendix 1: Domestic Students - Cancellation / Withdrawal Impacts Table
 
 <table style="width: 100%;">
   <tbody>
@@ -665,10 +665,10 @@ Development/Approval dates: October 2019<br>
 </tbody>
 </table>
 
-##Appendix 2: Cancellation & Withdrawal Timeframes
+## Appendix 2: Cancellation & Withdrawal Timeframes
 
 TBA
 
-##Cancellation / Withdrawal Timeframes 8 - 11 Weeks
+## Cancellation / Withdrawal Timeframes 8 - 11 Weeks
 
 TBA
