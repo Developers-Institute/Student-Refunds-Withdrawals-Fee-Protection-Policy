@@ -78,7 +78,7 @@ Development/Approval dates: October 2019<br>
   <td>
     <ul>
       <li>Academic Record Management Policy</li>
-      <li><a href="#">Student Enrolments and Procedures Policy</a></li>
+      <li>Student Enrolments and Procedures Policy</li>
     </ul>
   </td>
   </tr>
