@@ -675,7 +675,7 @@ TBA
 
 ## Appendix 3: FAQs for Students considering Cancellation or Withdrawal
 
-<p><strong>Disclaimer:<strong> This information is correct at the time this policy was approved. StudyLink policy may change from time to time. For accurate and up-to-date advice regarding your Study Contract and access to Loans and Allowances, contact StudyLink.<p>
+<p><strong>Disclaimer:</strong> This information is correct at the time this policy was approved. StudyLink policy may change from time to time. For accurate and up-to-date advice regarding your Study Contract and access to Loans and Allowances, contact StudyLink.<p>
   
   <table style="width: 100%;">
   <tbody>
@@ -714,8 +714,128 @@ If you have used your Student Loan to pay for your fees and you are entitled to 
       <th>What happens if I stop attending after 60% of the course or programme has passed?</th>
       <td><p>You cannot withdraw after 60% of the course(s) or programme has passed.</p>
         <p>Domestic students are responsible for notifying StudyLink of any changes to their study circumstances. Developers Institute is required to advise StudyLink of any withdrawals due to non-attendance or non-participation which may result in your Student Allowance payments ceasing.</p>
-        <p><strong>PLEASE BE ADVISED THAT DEVELOPERS INSTITUTE ARE OBLIGATED TO NOTIFY STUDYLINK SHOULD YOU STOP ATTENDING YOUR COURSE(S) OR PROGRAMME.<strong></p></td>
+        <p><strong>PLEASE BE ADVISED THAT DEVELOPERS INSTITUTE ARE OBLIGATED TO NOTIFY STUDYLINK SHOULD YOU STOP ATTENDING YOUR COURSE(S) OR PROGRAMME.</strong></p></td>
     </tr>
   </tbody>
   </table>
+  
+  ## Appendix 4: Schedule of Refund Fees
+  
+  <table style="width: 100%;">
+  <tbody>
+    <tr>
+      <th>Description</th>
+      <th>Charge</th>
+    </tr>
+    <tr>
+      <th>Charges made by external bodies e.g. NZQA</th>
+      <td>Advised by Academic Director for individual
+        programmes</td>
+    </tr>
+    <tr>
+      <th>Copies of examination scripts</th>
+      <td>$10</td>
+    </tr>
+    <tr>
+      <th>Courier fees</th>
+      <td>$25 within North Island<br>
+        $40 Nationwide<br>
+        $40 International Air up to 2 kg<br>
+        $65 International Courier all weights<br>
+        $115 International Express Courier all weights<br></td>
+    </tr>
+    <tr>
+      <th>Credit card merchant fees</th>
+      <td>Developers Institute accepts MasterCard and Visa credit cards for all payments; these credit card transactions incur a merchant service charge by the bank. A credit card surcharge will apply for all Visa and MasterCard payments. The current charge is 1.5% of the value of the transaction. This is subject to change, per the bank.</td>
+    </tr>
+    <tr>
+      <th>Credit Transfer</th>
+      <td>No charge</td>
+    </tr>
+    <tr>
+      <th>Cross Credit – listed on Cross Credit Schedule</th>
+      <td>No charge</td>
+    </tr>
+    <tr>
+      <th>Cross Credit – not listed on Cross Credit Schedule</th>
+      <td>$50 application fee plus $150 per hour to a maximum of $1,000</td>
+    </tr>
+    <tr>
+      <th>Dishonoured cheque reinstatement</th>
+      <td>$25</td>
+    </tr>
+    <tr>
+      <th>Late payment of fees (unless specific prior arrangements have been made)</th>
+      <td>$100</td>
+    </tr>
+    <tr>
+      <th>Developers Institute property not returned</th>
+      <td>Replacement cost plus $15 administration fee per item. The administration fee is non-refundable even
+        upon return of items.</td>
+    </tr>
+    <tr>
+      <th>NZQA Certificate or Diploma Replacement</th>
+      <td>$16.00</td>
+    </tr>
+    <tr>
+      <th>NZQA Record of Learning</th>
+      <td>Duplicate or replacement: $16.00</td>
+    </tr>
+    <tr>
+      <th>Recognition of Prior Learning</th>
+      <td>$50 application fee, plus $150 per hour to a maximum of $1,000</td>
+    </tr>
+    <tr>
+      <th>Re-enrolment of excluded student</th>
+      <td>Determined for individual cases</td>
+    </tr>
+    <tr>
+      <th>Re-mark</th>
+      <td>$50 (refunded if there is a changed outcome in
+        favour of the student)</td>
+    </tr>
+    <tr>
+      <th>Replacement library books</th>
+      <td>Purchase cost plus $15 administration fee per item.<br>
+        The administration fee is non-refundable even upon return of items</td>
+    </tr>
+    <tr>
+      <th>Replacement of Developers Institute Awards</th>
+      <td>$50 plus courier fees (if the student requests this service)</td>
+    </tr>
+    <tr>
+      <th>Replacement registration/library card</th>
+      <td>$15</td>
+    </tr>
+    <tr>
+      <th>Results Notification</th>
+      <td>No charge</td>
+    </tr>
+    <tr>
+      <th>Student Academic Transcript (replacement)</th>
+      <td>$25 plus courier fees (if the student requests this service)</td>
+    </tr>
+    <tr>
+      <th>Student Services Costs (Compulsory)</th>
+      <td>$635.00 including GST (2019 Cost)</td>
+    </tr>
+    <tr>
+      <th>Transfer to another course within the same programme</th>
+      <td>$50 plus cost of any resources used. Transfers are not normally approved after more than 3 weeks of a
+        course has been completed.</td>
+    </tr>
+    <tr>
+      <th>Transfer to another programme</th>
+      <td>$100 plus cost of any resources used. Transfers are not normally approved after 3 or more weeks of a
+        programme having been completed.</td>
+    </tr>
+    <tr>
+      <th>Withdrawal/transfer from a programme or course due to exceptional and extenuating circumstances (for
+        example serious illness)</th>
+      <td>Approval of any charge/refund is at the discretion of the Academic Director in consultation with the CEO.</td>
+    </tr>
+  </tbody>
+  </table>
+  
+  <p><strong>Developers Institute reserves the right to amend these charges or make other charges.</strong></p>
   
