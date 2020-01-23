@@ -672,3 +672,50 @@ TBA
 ## Cancellation / Withdrawal Timeframes 8 - 11 Weeks
 
 TBA
+
+## Appendix 3: FAQs for Students considering Cancellation or Withdrawal
+
+<p><strong>Disclaimer:<strong> This information is correct at the time this policy was approved. StudyLink policy may change from time to time. For accurate and up-to-date advice regarding your Study Contract and access to Loans and Allowances, contact StudyLink.<p>
+  
+  <table style="width: 100%;">
+  <tbody>
+    <tr>
+      <th>What result do I get if I cancel my enrolment?</th>
+      <td>If you cancel your enrolment, you will not have an Academic Record for the cancelled course(s) or programme.</td>
+    </tr>
+    <tr>
+      <th>What result do I get if I withdraw?</th>
+      <td>If you withdraw from your course(s) or programme, your results will be “Withdrawn”. You may not withdraw after 60% of the course has been delivered. If you do not meet course completion requirements your result will be a fail grade.</td>
+    </tr>
+    <tr>
+      <th>What happens to my student allowance if I cancel my enrolment?</th>
+      <td><p>If you cancel your enrolment or drop a course, you may not be studying full-time anymore, which means you may not qualify for the Student Allowance. Your Student Allowance needs to stop from the day you stop studying full-time.</p>
+        <p>If you don't tell StudyLink, you could be overpaid, which means you'll have to pay the money back. Contact StudyLink to discuss your options.</p>
+      </td>
+    </tr>
+    <tr>
+      <th>What happens to my Student Loan if I cancel my enrolment?</th>
+      <td><p>If you cancel your enrolment or drop a course, you may not be studying full-time anymore, which means you may not qualify for the Student Loan living costs. Your living costs need to stop from the day you stop studying full-time.</p>
+        <p>If you don't tell StudyLink, you could be overpaid, which means you'll have to pay the money back.
+If you have used your Student Loan to pay for your fees and you are entitled to a fee refund, this will be paid by Developers Institute directly to StudyLink.</p></td>
+    </tr>
+    <tr>
+      <th>What happens to my Student Allowance if I withdraw from a course or programme?</th>
+      <td><p>Your Student Allowance needs to stop from the day you stop studying full-time.</p>
+        <p>If you withdraw, it could mean that you won’t pass enough courses to receive a Student Allowance in the future. Contact StudyLink to discuss your options.</p></td>
+    </tr>
+    <tr>
+      <th>What happens to my Student Loan if I withdraw from a course or programme?</th>
+      <td><p>Your Student Loan living costs need to stop from the day you stop studying full-time. If you withdraw from a course or programme and don't tell StudyLink, Developers Institute is required to tell StudyLink.</p>
+        <p>If StudyLink are informed that you are no longer studying, your loan may be suspended. That means you won't get any money for living costs, and any payments for fees and course-related costs will be put on hold.</p>
+        <p>If you withdraw from your course you are still responsible for repaying your Student Loan. Contact StudyLink to discuss your options.</p></td>
+    </tr>
+    <tr>
+      <th>What happens if I stop attending after 60% of the course or programme has passed?</th>
+      <td><p>You cannot withdraw after 60% of the course(s) or programme has passed.</p>
+        <p>Domestic students are responsible for notifying StudyLink of any changes to their study circumstances. Developers Institute is required to advise StudyLink of any withdrawals due to non-attendance or non-participation which may result in your Student Allowance payments ceasing.</p>
+        <p><strong>PLEASE BE ADVISED THAT DEVELOPERS INSTITUTE ARE OBLIGATED TO NOTIFY STUDYLINK SHOULD YOU STOP ATTENDING YOUR COURSE(S) OR PROGRAMME.<strong></p></td>
+    </tr>
+  </tbody>
+  </table>
+  
