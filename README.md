@@ -667,8 +667,6 @@ Development/Approval dates: October 2019<br>
 
 ## Appendix 2: Cancellation & Withdrawal Timeframes
 
-### Cancellation / Withdrawal Timeframes 8 - 11 Weeks
-
 <table><colgroup><col width="94"><col width="103"><col width="43"><col width="95"><col width="101"><col width="83"><col width="110"></colgroup><tbody><tr><th colspan="7">Domestic Students enrolled on a Course/Programme 8-11 weeks</th></tr>
 <tr><td>Cancellation (no penalties - full refund)</td>
 <td colspan="3">Cancellation (no penalties - full refund)</td>
@@ -681,8 +679,6 @@ Development/Approval dates: October 2019<br>
 <td>1-14 days after course/ programme start date</td>
 <td>15 or more days after the course/ programme start date and before the 60% of the total duration</td>
 <td>61% to end date</td></tr></tbody></table>
-
-### Cancellation / Withdrawal Timeframes 12 Weeks or longer
 
 <table><colgroup><col width="93"><col width="103"><col width="43"><col width="95"><col width="104"><col width="83"><col width="107"></colgroup><tbody><tr><th colspan="7">Domestic Students enrolled on a Course/Programme 12 weeks or longer</th></tr>
 <tr><td>Cancellation (no penalties - full refund)</td><td colspan="3">Cancellation (no penalties - full refund)</td>
