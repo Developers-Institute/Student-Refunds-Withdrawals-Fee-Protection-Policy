@@ -77,7 +77,7 @@ Development/Approval dates: October 2019<br>
   <td valign="top"><strong>Related Documents</strong></td>
   <td>
     <ul>
-      <li>Academic Record Management Policy</li>
+      <li>[Academic Record Management Policy]()</li>
       <li>Student Enrolments and Procedures Policy</li>
     </ul>
   </td>
@@ -667,11 +667,13 @@ Development/Approval dates: October 2019<br>
 
 ## Appendix 2: Cancellation & Withdrawal Timeframes
 
-TBA
+### Cancellation / Withdrawal Timeframes 8 - 11 Weeks
 
-## Cancellation / Withdrawal Timeframes 8 - 11 Weeks
+<table><colgroup><col width="94"><col width="103"><col width="43"><col width="95"><col width="101"><col width="83"><col width="110"></colgroup><tbody><tr><th><span><span>Domestic Students enrolled on a Course/Programme 8-11 weeks</span></span></th></tr><tr><td><span><span>Cancellation</span></span><span><span>(no penalties - full refund)</span></span></td><td colspan="3"><span><span>Cancellation</span></span><span><span>(no penalties - full refund)</span></span></td><td><span><span>Withdrawn</span></span><span><span>(No refund Academic Grade is withdrawn)</span></span></td><td rowspan="2"><span><span>60%</span></span><span><span>Course/</span></span><span><span>Programme</span></span><span><span>Lapsed</span></span></td><td><span><span>Cannot be withdrawn</span></span><span><span>(No refund Academic Grade is Fail/No Pass)</span></span></td></tr><tr><td><span><span>14 or more days before the course/</span></span><span><span>programme start date</span></span></td><td><span><span>1-13 days before the course/ programme start date&nbsp;</span></span>&lt;br&gt;</td><td><span><span>Start Date</span></span></td><td><span><span>1-14 days after course/ programme start date</span></span></td><td><span><span>15 or more days after the course/ programme start date and before the 60% of the total duration</span></span></td><td><span><span>61% to end date</span></span></td></tr></tbody></table>
 
-TBA
+### Cancellation / Withdrawal Timeframes 12 Weeks or longer
+
+<table><colgroup><col width="93"><col width="103"><col width="43"><col width="95"><col width="104"><col width="83"><col width="107"></colgroup><tbody><tr><th><span><span>Domestic Students enrolled on a Course/Programme 12 weeks or longer</span></span></th></tr><tr><td><span><span>Cancellation</span></span><span><span>(no penalties - full refund)</span></span></td><td colspan="3"><span><span>Cancellation</span></span><span><span>(no penalties - full refund)</span></span></td><td><span><span>Withdrawn</span></span><span><span>(No refund Academic Grade is withdrawn)</span></span></td><td rowspan="2"><span><span>60%</span></span><span><span>Course/</span></span><span><span>Programme</span></span><span><span>Lapsed</span></span></td><td><span><span>Cannot be withdrawn</span></span><span><span>(No refund Academic Grade is Fail/No Pass)</span></span></td></tr><tr><td><span><span>21 or more days before the course/</span></span><span><span>programme start date</span></span></td><td><span><span>1-20 days before the course/ programme start date&nbsp;</span></span>&lt;br&gt;</td><td><span><span>Start Date</span></span></td><td><span><span>1-21 days after course/ programme start date</span></span></td><td><span><span>22 or more days after the course/ programme start date and before the 60% of the total duration</span></span></td><td><span><span>61% to end date</span></span></td></tr></tbody></table>
 
 ## Appendix 3: FAQs for Students considering Cancellation or Withdrawal
 
