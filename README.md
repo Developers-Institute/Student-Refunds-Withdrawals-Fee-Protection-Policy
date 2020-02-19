@@ -669,7 +669,7 @@ Development/Approval dates: October 2019<br>
 
 ### Cancellation / Withdrawal Timeframes 8 - 11 Weeks
 
-<table><colgroup><col width="94"><col width="103"><col width="43"><col width="95"><col width="101"><col width="83"><col width="110"></colgroup><tbody><tr><th colspan="5">Domestic Students enrolled on a Course/Programme 8-11 weeks</th></tr>
+<table><colgroup><col width="94"><col width="103"><col width="43"><col width="95"><col width="101"><col width="83"><col width="110"></colgroup><tbody><tr><th colspan="7">Domestic Students enrolled on a Course/Programme 8-11 weeks</th></tr>
 <tr><td>Cancellation (no penalties - full refund)</td>
 <td colspan="3">Cancellation (no penalties - full refund)</td>
 <td>Withdrawn (No refund Academic Grade is withdrawn)</td>
@@ -684,7 +684,7 @@ Development/Approval dates: October 2019<br>
 
 ### Cancellation / Withdrawal Timeframes 12 Weeks or longer
 
-<table><colgroup><col width="93"><col width="103"><col width="43"><col width="95"><col width="104"><col width="83"><col width="107"></colgroup><tbody><tr><th colspan="5">Domestic Students enrolled on a Course/Programme 12 weeks or longer</th></tr>
+<table><colgroup><col width="93"><col width="103"><col width="43"><col width="95"><col width="104"><col width="83"><col width="107"></colgroup><tbody><tr><th colspan="7">Domestic Students enrolled on a Course/Programme 12 weeks or longer</th></tr>
 <tr><td>Cancellation (no penalties - full refund)</td><td colspan="3">Cancellation (no penalties - full refund)</td>
 <td>Withdrawn (No refund Academic Grade is withdrawn)</td>
 <td rowspan="2">60% Course/Programme Lapsed</td>
