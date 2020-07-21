@@ -77,7 +77,6 @@ Development/Approval dates: October 2019<br>
   <td valign="top"><strong>Related Documents</strong></td>
   <td>
     <ul>
-      <li>[Academic Record Management Policy]()</li>
       <li>Student Enrolments and Procedures Policy</li>
     </ul>
   </td>
@@ -112,7 +111,7 @@ Development/Approval dates: October 2019<br>
       <td valign="top"><strong>1.0 General</strong></td>
       <td><ul>
         <li>1.1 The fee setting process shall be carried out in accordance with this Policy. The provisions of the Credit Contracts and Consumer Finance Act 2003 apply to this Policy where student fees are payable under an extended payment plan.  Such agreements shall be administered in compliance with the Act.
-          <p>The purposes of this policy are to:</p></li>
+          <p>The purposes of this policy is to:</p></li>
         <li>1.2 Establish rules and guidelines to be adopted when setting student fees that shall comply with statutory requirements where applicable.</li>
         <li>1.3 Establish the conditions and requirements for student refunds on withdrawal from programmes, including Ministry of Education funded programmes.</li>
         </ul></td>
