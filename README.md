@@ -685,7 +685,7 @@ Development/Approval dates: October 2019<br>
 <td rowspan="2">60% Course/Programme Lapsed</td>
 <td>Cannot be withdrawn (No refund Academic Grade is Fail/No Pass)</td></tr>
 <tr><td>21 or more days before the course/programme start date</td>
-<td>1-20 days before the course/ programme start date&nbsp;</td><td>Start Date</td><td>1-21 days after course/ programme start date</td><td>22 or more days after the course/ programme start date and before the 60% of the total duration</td><td>61% to end date</td></tr></tbody></table>
+<td>1-20 days before the course/ programme start date&nbsp;</td><td>Start Date</td><td>1-10 days after course/ programme start date</td><td>11 or more days after the course/ programme start date and before the 60% of the total duration</td><td>61% to end date</td></tr></tbody></table>
 
 ## Appendix 3: FAQs for Students considering Cancellation or Withdrawal
 
