@@ -168,7 +168,18 @@ Development/Approval dates: October 2019<br>
            </ul></li>
          <li>4.4 Developers Institute will refund an amount equal to the sum of the amount paid.</li>
          <li>4.5 Formal withdrawal within the first eight (8) working days of the programme is confirmed by the completion and return of the Cancellation/Withdrawal Form to the Programme Coordinator. The Academic Director shall have been communicated with (by the Programme Coordinator) and signed off the form for the withdrawal to proceed. The date of withdrawal is deemed to be the date the student returns the signed Cancellation/Withdrawal form.</li>
-         <li>4.6 Students who have never attended class based on an audit of attendance, shall automatically be treated as an Enrolment Cancellation/Withdrawal with a full refund.</li>
+         <li>4.6 Students who have never attended class based on an audit of attendance, shall automatically be treated as an Enrolment Cancellation/Withdrawal with a full refund.
+         <p>In the following situations a Student must be treated as having withdrawn, within the Refund Period, from a Course in which the students was enrolled with Developers Institute:</p></li>
+        <li> 
+          <ul>
+           <li>where the Student fails to attend or participate in the Course; or</li>
+           <li>where the Student attends or participates in the Course during the Refund Period, but stops attending or participating in the Course before the end of the Refund Period.</li>
+          </ul>
+         </li>
+         
+<li>Rule 4.6.1(b) does not apply where the Student attends or participates in that Course after the end of the Refund Period.</li>
+
+ 
          <li>4.7 Where a student has had his/her fees paid by an agency or benefactor, any refund shall be made to that agency or benefactor.</li>
          <li>4.8 Transfer from one course or programme to another within Developers Institute can be carried out provided that there are no negative financial consequences for Developers Institute, and notification of the written request to transfer is received within the first two weeks of the programme start date.  Where there are financial consequences, the transfer is to be treated as a course or programme withdrawal and a new study application is to be made. </li>
          <li>4.9 All refunds shall comply with the Schedule of Refund Fees (see Appendix 4) unless exceptional circumstances have been approved by the Chief Executive.</li>
