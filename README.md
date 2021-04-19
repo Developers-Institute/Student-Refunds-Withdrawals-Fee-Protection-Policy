@@ -168,7 +168,7 @@ Development/Approval dates: October 2019<br>
            </ul></li>
          <li>4.4 Developers Institute will refund an amount equal to the sum of the amount paid.</li>
          <li>4.5 Formal withdrawal within the first eight (8) working days of the programme is confirmed by the completion and return of the Cancellation/Withdrawal Form to the Programme Coordinator. The Academic Director shall have been communicated with (by the Programme Coordinator) and signed off the form for the withdrawal to proceed. The date of withdrawal is deemed to be the date the student returns the signed Cancellation/Withdrawal form.</li>
-         <li>4.6 Students who have never attended class based on an audit of attendance, shall automatically be treated as an Enrolment Cancellation/Withdrawal with a full refund
+         <li>4.6 Students who have never attended class based on an audit of attendance, shall automatically be treated as an Enrolment Cancellation/Withdrawal with a full refund.
          <p>In the following situations a Student must be treated as having withdrawn, within the Refund Period, from a Course in which the students was enrolled with Developers Institute:</p></li>
         <li> 
           <ul>
