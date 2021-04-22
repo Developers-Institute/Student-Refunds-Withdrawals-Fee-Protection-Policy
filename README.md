@@ -179,7 +179,7 @@ Development/Approval dates: October 2019<br>
          
 <li>Rule 4.6.1(b) does not apply where the Student attends or participates in that Course after the end of the Refund Period.</li>
 
- 
+ <tr>
          <li>4.7 Where a student has had his/her fees paid by an agency or benefactor, any refund shall be made to that agency or benefactor.</li>
          <li>4.8 Transfer from one course or programme to another within Developers Institute can be carried out provided that there are no negative financial consequences for Developers Institute, and notification of the written request to transfer is received within the first two weeks of the programme start date.  Where there are financial consequences, the transfer is to be treated as a course or programme withdrawal and a new study application is to be made. </li>
          <li>4.9 All refunds shall comply with the Schedule of Refund Fees (see Appendix 4) unless exceptional circumstances have been approved by the Chief Executive.</li>
