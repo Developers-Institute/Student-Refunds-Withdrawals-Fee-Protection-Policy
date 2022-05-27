@@ -18,7 +18,7 @@ This protection covers all payments made to Developers Institute by, or on behal
   <tr>
 <td valign="top"><strong>Responsibilities</strong></td>
 <td>
-  <p>It is the responsibility of the Chief Executive to employ effective mechanisms that oversee the Student Refunds, Withdrawals and Fee Protection Policy, under section 452 and 361 of the <a href="https://www.legislation.govt.nz/act/public/2020/0038/latest/LMS170676.html">Education and Training Act 2020</a> (the Education and Training Act) and Student Fee Protection Rules (2021).</p>
+  <p>It is the responsibility of the Chief Executive to employ effective mechanisms that oversee the Student Refunds, Withdrawals and Fee Protection Policy, under section 357 and 361 of the <a href="https://www.legislation.govt.nz/act/public/2020/0038/latest/LMS170676.html">Education and Training Act 2020</a> (the Education and Training Act) and Student Fee Protection Rules (2021).</p>
   <p>The Quality Manager will ensure that all procedures are implemented relating to this policy.</p>
 </td>
 </tr>
