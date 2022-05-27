@@ -62,6 +62,7 @@ Academic Record will show “Withdrawn” for the course(s).</p>
           <li><a href="https://www.nzqa.govt.nz/assets/About-us/Our-role/Rules/2021/SIGNED-Student-Fee-Protection-Rules-2021.pdf">Student Fee Protection Rules 2021</a></li>
           <li>Credit Contracts and Consumer Finance Act 2003</li>
           <li><a href="https://www.tec.govt.nz/funding/funding-and-performance/funding/fund-finder/student-achievement-component-provision-at-level-3-and-above-on-the-nzqf-fund/conditions-2019/">TEC Funding Conditions</a></li>
+          <li>The New Zealand Government requires all private training establishments registered with the New Zealand Qualifications Authority (NZQA), to have some form of protection for student fees paid to them in advance. At Developers Institute, we use the Public Trust Fee Protect account for this. All student fees paid by students are deposited in a Standard Trust Fee Protection account managed by the Public Trust (www.publictrust.co.nz). The Public Trust operates as an independent trustee on behalf of the Developers Institute.</li>
         </ul>
       </td>
   </tr>
