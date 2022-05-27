@@ -18,7 +18,7 @@ This protection covers all payments made to Developers Institute by, or on behal
   <tr>
 <td valign="top"><strong>Responsibilities</strong></td>
 <td>
-  <p>It is the responsibility of the Chief Executive to employ effective mechanisms that oversee the Student Refunds, Withdrawals and Fee Protection Policy, under section 253(1) and 236A of the <a href="http://www.legislation.govt.nz/act/public/1989/0080/latest/DLM175959.html">Education Act 1989</a> (the Education Act) and Student Fee Protection Rules (2013).</p>
+  <p>It is the responsibility of the Chief Executive to employ effective mechanisms that oversee the Student Refunds, Withdrawals and Fee Protection Policy, under section 357 and 361 of the <a href="https://www.legislation.govt.nz/act/public/2020/0038/latest/LMS170676.html">Education and Training Act 2020</a> (the Education and Training Act) and Student Fee Protection Rules (2021).</p>
   <p>The Quality Manager will ensure that all procedures are implemented relating to this policy.</p>
 </td>
 </tr>
@@ -58,10 +58,11 @@ Academic Record will show “Withdrawn” for the course(s).</p>
       <td valign="top"><strong>Compliance Obligations</strong></td>
       <td>
         <ul>
-          <li><a href="http://www.legislation.govt.nz/act/public/1989/0080/latest/DLM3983119.html?search=sw_096be8ed81881813_253_25_se&p=1">The Education Act 1989</a></li>
-          <li><a href="https://www.nzqa.govt.nz/assets/About-us/Our-role/Rules/SFP-Rules.pdf">Student Fee Protection Rules 2013</a></li>
+          <li><a href="https://www.legislation.govt.nz/act/public/2020/0038/latest/LMS171311.html">Education and Training Act 2020</a></li>
+          <li><a href="https://www.nzqa.govt.nz/assets/About-us/Our-role/Rules/2021/SIGNED-Student-Fee-Protection-Rules-2021.pdf">Student Fee Protection Rules 2021</a></li>
           <li>Credit Contracts and Consumer Finance Act 2003</li>
           <li><a href="https://www.tec.govt.nz/funding/funding-and-performance/funding/fund-finder/student-achievement-component-provision-at-level-3-and-above-on-the-nzqf-fund/conditions-2019/">TEC Funding Conditions</a></li>
+          <li>The New Zealand Government requires all private training establishments registered with the New Zealand Qualifications Authority (NZQA), to have some form of protection for student fees paid to them in advance. At Developers Institute, we use the Public Trust Fee Protect account for this. All student fees paid by students are deposited in a Standard Trust Fee Protection account managed by the Public Trust (www.publictrust.co.nz). The Public Trust operates as an independent trustee on behalf of the Developers Institute.</li>
         </ul>
       </td>
   </tr>
@@ -160,8 +161,8 @@ Development/Approval dates: October 2019<br>
      <td valign="top"><strong>4.0 Domestic Fee Refunds Guidelines</strong></td>
        <td><ul>
         <li>4.1 When a course or programme is cancelled by Developers Institute after paid enrolments have been received, students shall be entitled to an automatic refund of all fees, course costs and health levies, without incurring an administration fee.</li>
-         <li>4.2 With effect from 2 June 2018, domestic students withdrawing from courses of less than three months duration are entitled to a refund, under section 235(1A) of the Education Act 1989.</li>
-         <li>4.3 Domestic students are entitled to a refund if they withdraw from a programme or training scheme as per section 235 of the Education Act 1989, and if:
+         <li>4.2 With effect from 2 June 2018, domestic students withdrawing from courses of less than three months duration are entitled to a refund, under section 357(3A) of the Education and Training Act 2020.</li>
+         <li>4.3 Domestic students are entitled to a refund if they withdraw from a programme or training scheme as per section 357 of the Education and Training Act 2020, and if:
            <ul>
              <li>the course is of three months duration or more, and;</li>
              <li>the withdrawal occurs before the end of the eighth (8) working day after the start of a course.</li>
@@ -189,8 +190,8 @@ Development/Approval dates: October 2019<br>
      <td valign="top"><strong>5.0 Student Fee Protection</strong></td>
        <td><ul>
         <li><p>5.1 All student fees paid by students are deposited the following working day in a Standard Trust Fee Protection account managed by the Public Trust (www.publictrust.co.nz). The Public Trust operates as an independent trustee on behalf of Developers Institute. See also 6.1 below.</p>
-         <p>As per the requirements of the Education Act, section 236A, Developers Institute’s Standard Trust account uses the eighth-day trust account for courses of three months or more in length.</p>
-         <p>This arrangement has been accepted by the New Zealand Qualifications Authority as meeting the requirements of the Education Act 1989 and the Student Fee Protection Rules 2013.</p></li>
+         <p>As per the requirements of the Education and Training Act, section 361, Developers Institute’s Standard Trust account uses the eighth-day trust account for courses of three months or more in length.</p>
+         <p>This arrangement has been accepted by the New Zealand Qualifications Authority as meeting the requirements of the Education and Training Act and the Student Fee Protection Rules 2021.</p></li>
          <li>5.2 Students will receive a copy of their ‘Fee Protect Student Acknowledgement Form’, which includes a ‘Payment Schedule’ showing how their fees will be paid out to Developers Institute over the duration of the programme they are enrolled in. This 'Payment Schedule' that indicates the dates and amounts of payments to be made, must be signed by a representative of Developers Institute’s Senior Leadership Team, (CEO, Quality Manager or Academic Director) and the student before the start of the course.</li>
          <li><p>5.3 In the unlikely event that Developers Institute ceases to operate for any reason (including insolvency, regulatory or voluntary closure), student fee protection is assured to all Developers Institute students, who are entitled to a refund of the fees equivalent to the remaining tuition that Developers Institute failed to provide.</p>
            <p>Students can view further information, or access refunds of fees through contacting The Public Trust, by calling 0800 494 733 or visiting www.publictrust.co.nz/fee-protect.</p>
